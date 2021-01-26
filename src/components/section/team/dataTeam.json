@@ -1,0 +1,32 @@
+{
+    "items": [
+         {
+             "name": "Yader Mendoza",
+             "specialty": "Frontend",
+             "urlPhoto": "Y",
+             "infoPersonal": "",
+             "btnUrl":""
+         },
+         {
+             "name": "Carlos Lopez",
+             "specialty": "Backend Developer",
+             "urlPhoto": "C",
+             "infoPersonal": "",
+             "btnUrl":""
+         },
+         {
+             "name": "Aldo Paz",
+             "specialty": "Backend Developer",
+             "urlPhoto": "A",
+             "infoPersonal": "",
+             "btnUrl":""
+         },
+         {
+            "name": "Walter Corrales",
+            "specialty": "Backend Developer",
+            "urlPhoto": "W",
+            "infoPersonal": "",
+            "btnUrl":""
+        }
+     ]
+ }

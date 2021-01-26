@@ -1,0 +1,25 @@
+{
+   "items": [
+        {
+            "title": "SEO",
+            "description": "We help you define your SEO objectives & develop a realistic strategy with you",
+            "image": "pendiente.png",
+            "nameBtn": "Read more",
+            "url": ""
+        },
+        {
+            "title": "Content Marketing",
+            "description": "Our team of creatives, designers & developers work alongside our SEO & content teams.",
+            "image": "pendiente.png",
+            "nameBtn": "Read more",
+            "url": ""
+        },
+        {
+            "title": "Keyword Research",
+            "description": "Keyword & market research help guide SEO strategy and allow us to provide realistic projections.",
+            "image": "pendiente.png",
+            "nameBtn": "Read more",
+            "url": ""
+        }
+    ]
+}

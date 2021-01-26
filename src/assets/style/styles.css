@@ -1,0 +1,5 @@
+/* estilo de las flecha del carrusel*/
+.slick-next::before, 
+.slick-prev::before {
+    color: blue;
+}
