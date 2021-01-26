@@ -10,8 +10,6 @@ import Slider from 'react-slick';
 // Import css files slider
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-// estilo personalizado 
-import 'assets/style/styles.css';
 
 //data technology
 import Data from 'components/section/technology/dataTechnology.json';

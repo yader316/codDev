@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import 'index.css';
+import 'assets/style/index.css';
 import {  
     makeStyles,
     useScrollTrigger,

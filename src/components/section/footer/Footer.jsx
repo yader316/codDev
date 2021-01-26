@@ -152,22 +152,41 @@ function Footer(props) {
                         </Grid>
                         <Grid item xs={12}>
                             <Box display='flex' mb={4}>
-                                <IconButton className={`${classes.iconBackground} ${classes.iconFaceIn}`}>
+                                <IconButton 
+                                    className={`
+                                        ${classes.iconBackground} 
+                                        ${classes.iconFaceIn}`}
+                                    >
                                     <FacebookIcon />
                                 </IconButton>
-                                <IconButton className={`${classes.iconBackground} ${classes.iconTwiter}`}>
+                                <IconButton className={`
+                                    ${classes.iconBackground} 
+                                    ${classes.iconTwiter}`}
+                                >
                                     <TwitterIcon />
                                 </IconButton>
-                                <IconButton className={`${classes.iconBackground} ${classes.iconInstragran}`}>
+                                <IconButton className={`
+                                    ${classes.iconBackground} 
+                                    ${classes.iconInstragran}`}
+                                >
                                     <InstagramIcon />
                                 </IconButton>
-                                <IconButton className={`${classes.iconBackground} ${classes.iconFaceIn}`}>
+                                <IconButton className={`
+                                    ${classes.iconBackground} 
+                                    ${classes.iconFaceIn}`}
+                                >
                                     <LinkedInIcon />    
                                 </IconButton>
-                                <IconButton className={`${classes.iconBackground} ${classes.iconEmail}`}>
+                                <IconButton className={`
+                                    ${classes.iconBackground} 
+                                    ${classes.iconEmail}`}
+                                >
                                     <EmailIcon  />
                                 </IconButton>
-                                <IconButton className={`${classes.iconBackground} ${classes.iconWhatsapp}`}>
+                                <IconButton className={`
+                                    ${classes.iconBackground} 
+                                    ${classes.iconWhatsapp}`}
+                                >
                                     <WhatsAppIcon />
                                 </IconButton>
                             </Box>

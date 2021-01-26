@@ -8,8 +8,6 @@ import {
 
 import { Link } from "react-scroll";
 
-// estilo personalizado 
-import 'assets/style/styles.css';
 
 const useStyle = makeStyles((theme) => ({
     dFlex: {

@@ -6,7 +6,8 @@ import {
     Hidden, 
     IconButton, 
     makeStyles, 
-    Toolbar, 
+    Toolbar,
+    Typography, 
 } from '@material-ui/core';
 
 import MenuIcon from '@material-ui/icons/Menu';
@@ -61,8 +62,17 @@ function NavMenu(props) {
                     >
                         <MenuIcon  className={classes.iconSize} />
                     </IconButton>
-                    <Box>
-                        <img src={logo} className={classes.logo} alt="logo" />
+                    <Box display='flex' alignItems='center'>
+                        <img 
+                            src={logo} 
+                            className={classes.logo} 
+                            alt="logo" 
+                        />
+                        <Hidden smDown>
+                            <Typography variant='h5'>
+                                CodDev
+                            </Typography>
+                        </Hidden>
                     </Box>
                      <Hidden smDown>
                         <ListMenu />

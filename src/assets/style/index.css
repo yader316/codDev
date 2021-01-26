@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* estilo de las flecha de slick carrusel*/
+.slick-next::before, 
+.slick-prev::before {
+    color: blue !important; 
+}
